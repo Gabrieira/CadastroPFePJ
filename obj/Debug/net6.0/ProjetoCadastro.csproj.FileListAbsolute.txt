@@ -1,0 +1,15 @@
+C:\SENAI\ProjetoCadastro\bin\Debug\net6.0\ProjetoCadastro.exe
+C:\SENAI\ProjetoCadastro\bin\Debug\net6.0\ProjetoCadastro.deps.json
+C:\SENAI\ProjetoCadastro\bin\Debug\net6.0\ProjetoCadastro.runtimeconfig.json
+C:\SENAI\ProjetoCadastro\bin\Debug\net6.0\ProjetoCadastro.dll
+C:\SENAI\ProjetoCadastro\bin\Debug\net6.0\ProjetoCadastro.pdb
+C:\SENAI\ProjetoCadastro\obj\Debug\net6.0\ProjetoCadastro.csproj.AssemblyReference.cache
+C:\SENAI\ProjetoCadastro\obj\Debug\net6.0\ProjetoCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\SENAI\ProjetoCadastro\obj\Debug\net6.0\ProjetoCadastro.AssemblyInfoInputs.cache
+C:\SENAI\ProjetoCadastro\obj\Debug\net6.0\ProjetoCadastro.AssemblyInfo.cs
+C:\SENAI\ProjetoCadastro\obj\Debug\net6.0\ProjetoCadastro.csproj.CoreCompileInputs.cache
+C:\SENAI\ProjetoCadastro\obj\Debug\net6.0\ProjetoCadastro.dll
+C:\SENAI\ProjetoCadastro\obj\Debug\net6.0\refint\ProjetoCadastro.dll
+C:\SENAI\ProjetoCadastro\obj\Debug\net6.0\ProjetoCadastro.pdb
+C:\SENAI\ProjetoCadastro\obj\Debug\net6.0\ProjetoCadastro.genruntimeconfig.cache
+C:\SENAI\ProjetoCadastro\obj\Debug\net6.0\ref\ProjetoCadastro.dll
